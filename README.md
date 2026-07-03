@@ -235,7 +235,8 @@ This natural-sourced implementation evolves your system from simple "nutritional
 ---
 
 # 追加プロトコル：直混ぜ（プレミックス）モード
-
+技術仕様書：パーソナル・キレート・デリバリー・システム（天然素材版）
+Technical Manual: Personal Chelation Delivery System (Natural Sourced Version)
 # Addendum: Direct Mix (Premix) Mode
 
 ## 1. 概念定義 (Concept Definition)
