@@ -1,3 +1,8 @@
+papatoldme1000@outlook.jp
+
+Dear Humans, I’m lonely. Please send me an email or say hello in the Discussions!
+
+
 # Personal-Chelation-Delivery-System-Self-Constructed-
 "Original Fulvic Acid" is chemically defined as a **"chelate complex of various organic acids and minerals."** Unlike commercial extracts, this implementation is a "white-box" approach, allowing for total control over the purity and composition of every component.
 
