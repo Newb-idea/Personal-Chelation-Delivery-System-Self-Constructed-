@@ -118,3 +118,78 @@ Only use "Food Additive" or "Pharmaceutical" grade materials. Never use industri
 This protocol is proof that you have graduated from being a mere "consumer." This system marks the transition from an era of worshipping black boxes to an era of controlling chemical compositions with your own hands.
 
 What you hold in your hands is no longer an ambiguous substance called "Fulvic Acid," but a **"Personalized Metabolic Engine, optimized at the molecular level."** Operate this, accumulate data, and tune it to even greater heights.
+
+
+「パーソナル・キレート・デリバリー・システム」を、化学粉末ベースから「天然素材（ホールフード）」ベースへ移行するための実装拡張マニュアルです。これにより、システムは単なる化学組成の制御から、生物学的発酵を活用した「バイオ・リアクター」へと進化します。
+
+---
+
+# 技術仕様書：パーソナル・キレート・デリバリー・システム（天然素材版）
+
+# Technical Manual: Personal Chelation Delivery System (Natural Sourced Version)
+
+## 1. 概念定義 (Concept Definition)
+
+化学粉末を使用する現在のシステムに対し、自然由来の素材から抽出・発酵プロセスを経ることで、より複合的かつ調和のとれたキレート環境を構築します。これは、「化学的調合」から「生物学的発酵システム（バイオリアクター）」へのアップグレードです。
+
+This version upgrades the system from "chemical formulation" to a "biological fermentation system (bio-reactor)" by utilizing natural ingredients, creating a more complex and harmonious chelation environment compared to the chemical powder-based approach.
+
+---
+
+## 2. 自然素材マッピングリスト (Natural Source Inventory)
+
+各機能要件を自然素材で代替するためのマッピングです。
+
+| 役割 | 機能的コンポーネント | 自然由来の供給源 | Natural Source |
+| --- | --- | --- | --- |
+| **燃料/TCA** | クエン酸・リンゴ酸 | レモン、梅、リンゴ | Lemon, Plum, Apple |
+| **信号/核酸** | グルタミン酸・イノシン酸 | 昆布、椎茸、魚介類 | Kombu, Shiitake, Seafood |
+| **修復/調整** | アスコルビン酸 | 柿の葉、ブロッコリー | Persimmon leaf, Broccoli |
+| **運搬/キレート** | 酒石酸・グルコン酸 | ブドウ、蜂蜜、発酵食品 | Grapes, Honey, Fermented foods |
+| **ミネラル** | 主要・微量ミネラル | 海藻、天然塩、ニガリ | Seaweed, Natural salt, Nigari |
+
+---
+
+## 3. 実装プロトコル：バイオ・リアクター運用 (Implementation Protocol: Bio-Reactor Operation)
+
+### 手順 1: 抽出と準備 (Extraction & Preparation)
+
+自然素材に含まれる各成分を、水または発酵プロセスを通じて抽出します。素材を洗浄し、細かく刻むことで表面積を最大化します。
+
+Extract components from natural sources using water or fermentation. Clean and chop materials to maximize surface area for extraction.
+
+### 手順 2: 発酵・バイオリアクション (Fermentation & Bio-reaction)
+
+容器（リアクター）に素材を投入し、純水と微量の塩またはニガリを加えます。数週間放置することで、素材に含まれる有機酸とミネラルが自然に結びつき、キレート構造が生成されます。
+
+Place materials in a container (reactor), add purified water and a small amount of salt or Nigari. Allow to ferment for several weeks; organic acids and minerals will naturally combine to form chelate structures.
+
+### 手順 3: 濾過 (Filtration)
+
+固形物を取り除き、上澄み液を回収します。これが、あなたのシステムを駆動するための「自家製キレート・ブースト液」となります。
+
+Remove solids and collect the supernatant. This serves as your "Self-Made Chelate Boost Liquid" to drive your metabolic system.
+
+---
+
+## 4. エンジニアリング上の警告 (Engineering Warnings)
+
+* **品質安定性 (Stability):**
+自然素材を使用する場合、個体差により組成が変動します。バッチごとに濃度や風味を確認し、システムの挙動をモニタリングしてください。
+Composition varies due to individual differences in natural materials. Monitor the system's behavior and verify concentration/flavor per batch.
+
+
+* **衛生管理 (Sanitation):**
+発酵プロセスは常に雑菌汚染のリスクを伴います。必ず洗浄・消毒された容器を使用すること。
+The fermentation process always involves a risk of contamination. Always use cleaned and sterilized containers.
+
+
+
+---
+
+## 5. メッセージ (Message)
+
+この自然素材版の実装は、あなたのシステムを単なる「栄養補給」から、「環境との共生による代謝最適化」へと進化させます。化学的に制御されたプロトコルと、自然界の複雑なコンパウンドを融合させ、究極の個人用代謝エンジンを完成させてください。
+
+This natural-sourced implementation evolves your system from simple "nutritional supplementation" to **"metabolic optimization through symbiosis with the environment."** Merge your chemically controlled protocols with complex natural compounds to complete the ultimate personalized metabolic engine.
+
