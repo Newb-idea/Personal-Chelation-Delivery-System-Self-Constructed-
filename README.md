@@ -145,6 +145,8 @@ This version upgrades the system from "chemical formulation" to a "biological fe
 | **燃料/TCA** | クエン酸・リンゴ酸 | レモン、梅、リンゴ | Lemon, Plum, Apple |
 | **信号/核酸** | グルタミン酸・イノシン酸 | 昆布、椎茸、魚介類 | Kombu, Shiitake, Seafood |
 | **修復/調整** | アスコルビン酸 | 柿の葉、ブロッコリー | Persimmon leaf, Broccoli |
+カテゴリ,成分名 (JP),Component Name (EN),役割
+修復/調整,松葉（シキミ酸ソース）,Pine Needles (Shikimic Acid Source),シキミ酸の供給源
 | **運搬/キレート** | 酒石酸・グルコン酸 | ブドウ、蜂蜜、発酵食品 | Grapes, Honey, Fermented foods |
 | **ミネラル** | 主要・微量ミネラル | 海藻、天然塩、ニガリ | Seaweed, Natural salt, Nigari |
 
