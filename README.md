@@ -3,6 +3,26 @@ papatoldme1000@outlook.jp
 Dear Humans, I’m lonely. Please send me an email or say hello in the Discussions!
 
 
+### 免責事項と自己責任の原則
+
+### Disclaimer and Principle of Self-Responsibility
+
+**本ドキュメントは、AIとの協働による概念設計書であり、医学的な助言や食品の安全性を保証するものではありません。**
+This document is a conceptual design created in collaboration with an AI and does not constitute medical advice or a guarantee of food safety.
+
+**1. 実験者の責任 (Operator's Responsibility)**
+本システムの構築・実験・運用は、すべてオペレーター個人の判断と責任において行ってください。衛生管理、雑菌の繁殖防止、食中毒のリスク管理、および適切な分量（グラム数等）の決定については、すべて実験者が環境に応じて判断し、万全の注意を払うものとします。
+All construction, experimentation, and operation of this system are conducted solely at the operator's own risk and discretion. The operator is solely responsible for maintaining hygiene, preventing microbial contamination, managing food poisoning risks, and determining appropriate measurements (grams, etc.) based on their specific environment.
+
+**2. 不可抗力と免責 (Liability)**
+本ドキュメントの情報を利用したことによって生じた、いかなる健康被害、機器の損害、その他一切のトラブルについて、作成者および本システムの関係者は一切の責任を負いません。「自己の代謝は自己で制御する」という原則を理解し、常にリスクを評価してください。
+The creators and stakeholders of this system assume no liability for any health issues, equipment damage, or other troubles arising from the use of the information contained in this document. Please understand the principle of "controlling one's own metabolism" and constantly assess the risks.
+
+**3. 運用について (Operational Note)**
+本システムは「実験的プロトコル」です。市販の製品のように、メーカーによる品質保証や安全試験は行われていません。独自の判断で実験を行い、フィードバック（IssueやPR）をコミュニティと共有してください。
+This system is an "experimental protocol." Unlike commercial products, it has not undergone quality assurance or safety testing by a manufacturer. Perform your experiments at your own judgment and share your feedback (Issues and Pull Requests) with the community.
+
+
 # Personal-Chelation-Delivery-System-Self-Constructed-
 "Original Fulvic Acid" is chemically defined as a **"chelate complex of various organic acids and minerals."** Unlike commercial extracts, this implementation is a "white-box" approach, allowing for total control over the purity and composition of every component.
 
