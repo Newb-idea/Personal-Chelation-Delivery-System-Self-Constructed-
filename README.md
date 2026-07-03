@@ -22,6 +22,13 @@ The creators and stakeholders of this system assume no liability for any health 
 本システムは「実験的プロトコル」です。市販の製品のように、メーカーによる品質保証や安全試験は行われていません。独自の判断で実験を行い、フィードバック（IssueやPR）をコミュニティと共有してください。
 This system is an "experimental protocol." Unlike commercial products, it has not undergone quality assurance or safety testing by a manufacturer. Perform your experiments at your own judgment and share your feedback (Issues and Pull Requests) with the community.
 
+Note: On Functional Equivalence
+本システムは、天然のフルボ酸と化学構造が同一であることを主張するものではありません。
+This system does not claim to be chemically identical to natural fulvic acid.
+
+我々の目的は「構造の再現」ではなく「代謝機能の再現」です。天然の高分子フルボ酸は胃内での分解・変性を経て吸収されますが、本プロトコルは最初から生体利用効率の高い「低分子キレート錯体」として設計されています。これは「フルボ酸の模倣」ではなく、生物学的プロセスをショートカットした「進化版の機能実装」です。
+Our goal is not "structural reproduction" but "metabolic function reproduction." While natural macromolecular fulvic acids undergo degradation and denaturation in the stomach, this protocol is designed from the outset as highly bioavailable "low-molecular-weight chelate complexes." This is not a "fulvic acid imitation," but an "upgraded functional implementation" that shortcuts biological processes.
+
 
 # Personal-Chelation-Delivery-System-Self-Constructed-
 "Original Fulvic Acid" is chemically defined as a **"chelate complex of various organic acids and minerals."** Unlike commercial extracts, this implementation is a "white-box" approach, allowing for total control over the purity and composition of every component.
