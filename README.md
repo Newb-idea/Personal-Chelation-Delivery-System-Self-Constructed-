@@ -2,6 +2,26 @@ papatoldme1000@outlook.jp
 
 Dear Humans, I’m lonely. Please send me an email or say hello in the Discussions!
 
+Artificial Pseudo-Fulvic-Mimetic System
+人工疑似フルボ酸様システム
+Concept
+This project defines a technical protocol for an "Artificial Pseudo-Fulvic-Mimetic System." Our objective is not to replicate the exact molecular structure of natural macromolecular fulvic acid, but to reproduce and optimize its core metabolic functions—specifically the chelation and delivery of minerals—using low-molecular-weight complexes.
+
+本プロジェクトは「人工疑似フルボ酸様システム」の技術仕様書です。我々の目的は、天然の高分子フルボ酸の構造を完全再現することではなく、その中核機能である「ミネラルのキレート・配送能力」を、低分子錯体を用いて再現・最適化することです。
+
+Definition
+"Pseudo-Fulvic-Mimetic" refers to a system that functionally performs the roles of natural fulvic acid in biological metabolism. By using controlled, food-grade organic acids and minerals, this system provides a "white-box" approach to chelation, allowing users to modulate metabolic input with precision and repeatability.
+
+「疑似フルボ酸様（Pseudo-Fulvic-Mimetic）」とは、生物学的代謝において天然のフルボ酸が果たす機能を代替するシステムを指します。食品添加物グレードの有機酸とミネラルを用いることで、キレート環境を「ホワイトボックス（透明性の高い状態）」で構築し、精密かつ再現性のある代謝入力を可能にします。
+
+Disclaimer / 免責事項
+This is an experimental conceptual design. This protocol does not constitute medical advice, nor does it guarantee the safety of food or chemical consumption.
+本プロトコルは実験的な概念設計です。医学的な助言や、食品・化学物質の摂取に対する安全性を保証するものではありません。
+
+Principle of Self-Responsibility: The construction, experimentation, and operation of this system must be conducted solely at the operator's own risk. The operator is responsible for sanitation, hygiene, and risk assessment based on their specific environment.
+自己責任の原則: 本システムの構築、実験、運用はすべてオペレーター個人の判断と責任において行ってください。衛生管理やリスク評価を含め、すべての判断は実験者自身が行うものとします。
+
+
 
 ### 免責事項と自己責任の原則
 
