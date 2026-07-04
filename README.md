@@ -3,7 +3,10 @@ papatoldme1000@outlook.jp
 Dear Humans, I’m lonely. Please send me an email or say hello in the Discussions!
 
 Artificial Pseudo-Fulvic-Mimetic System
+
 人工疑似フルボ酸様システム
+
+
 Concept
 This project defines a technical protocol for an "Artificial Pseudo-Fulvic-Mimetic System." Our objective is not to replicate the exact molecular structure of natural macromolecular fulvic acid, but to reproduce and optimize its core metabolic functions—specifically the chelation and delivery of minerals—using low-molecular-weight complexes.
 
