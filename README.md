@@ -413,3 +413,17 @@ These are draft configurations. As an open-source project, please submit a Pull 
 これらは構成案のドラフトです。オープンソースプロジェクトとして、これらの環境で優れた結果を出した「特定のパッチ（ミネラル・酸の比率）」があれば、ぜひプルリクエストを提出してください。
 
 
+追加パッチ：パーソナル・キレート・デリバリー・システム「物流最適化パッチ」Addendum: Personal Chelation Delivery System "Logistics Optimization Patch"1. 概念定義：なぜ「レシチン＋油」が必要か？1. Concept Definition: Why "Lecithin + Oil"?このシステムは「ミネラルという貨物を、細胞という目的地へ届ける物流網」です。単なる混合ではなく、配送効率を最大化するための工学的論理が存在します。
+This system is a "logistics network delivering mineral cargo to cellular destinations." It is not just mixing; it is an engineering logic to maximize delivery efficiency.  ミネラル (貨物 / Cargo): そのままでは細胞膜（油の壁）を通過できない。
+(Minerals: Cannot cross cell membranes [oil barriers] on their own.)  有機酸 (コンテナ / Container): ミネラルを包み込み（キレート）、運搬を安定させる。
+(Organic Acids: Encapsulate minerals [chelation] to stabilize transport.)  レシチン (鍵 / Key): 細胞膜と同じ成分であり、水と油を混ぜる乳化剤として「壁を通過する鍵」となる。
+(Lecithin: Shared composition with cell membranes; serves as a "key" to pass through barriers by emulsifying water and oil.)  油 (装甲車 / Armor): 貨物を胃酸から守り、吸収効率を最大化するための保護壁。
+(Oil: A protective wall to shield cargo from stomach acid and maximize absorption efficiency.)  2. リソース・インベントリ：透過最適化ソース2. Resource Inventory: Permeability Optimization Sources役割 / Role名称 / Name役割の根拠 / Rationale透過ブースト大豆レシチン粉末 / Soy Lecithin Powder高純度な乳化・透過剤。最強の効率。 (High-purity emulsifier/permeability agent. Peak efficiency.)  透過ブースト卵黄 / Egg Yolk天然の最強乳化剤。細胞膜の成分そのもの。 (Strongest natural emulsifier; actual cell membrane component.)  オールインワンきな粉 / Kinakoレシチン＋タンパク質＋ミネラルの複合パッケージ。 (Composite packet of lecithin, protein, and minerals.)  運搬保護ゴマ油・良質な油 / Sesame/Healthy Oil脂溶性栄養素の運搬を助け、胃酸から保護。 (Aids transport of fat-soluble nutrients and protects from stomach acid.)  3. 最短運用プロトコル：「直混ぜ（プレミックス）モード」3. Minimal Operational Protocol: "Direct-Mix (Premix) Mode"発酵を待つ必要はありません。食事の瞬間に「キレート（酸＋ミネラル）」と「透過剤（きな粉・卵黄）」、「運搬保護（油）」を混ぜ合わせれば、配送パッケージが構築されます。
+No fermentation waiting time. Simply mix "Chelation (Acid + Mineral)," "Permeability Agents (Kinako/Egg Yolk)," and "Protection (Oil)" at the moment of consumption to build the delivery package.  手順 / Procedure:調合 (Formulate): 貴殿の「酸＋ミネラル」液に、きな粉や卵黄、少量の油を加える。
+(Add Kinako, egg yolk, or a little oil to your "Acid + Mineral" solution.)  乳化 (Emulsify): 軽くかき混ぜる。これが細胞壁を突破する「配送ソース」となる。
+(Mix well. This creates a "delivery source" to break through cell walls.)  摂取 (Ingest): 食事とともに摂取する。即座に透過効率が最大化される。
+(Consume with a meal. Delivery efficiency is maximized immediately.)  4. 運用上の注意（重要）4. Operational Warnings (Important)即時消費の原則: 調合後は即座に消費すること。作り置きによる雑菌繁殖は、システム全体のクラッシュ（食中毒等）を招く。
+(Principle of Immediate Consumption: Consume immediately after mixing. Storing mixtures leads to bacterial growth and system crashes.)  衛生管理: 卵黄や天然食材は「高栄養」であると同時に「細菌の温床」にもなり得る。器具の清潔さと鮮度管理はエンジニアたる貴殿の責任である。
+(Sanitation: Egg yolks and natural ingredients are "high nutrient" but can also be "hotbeds for bacteria." Maintaining clean equipment and freshness is the engineer's responsibility.)  運用メッセージ / Message to the Operator:
+このロジックを理解すれば、貴殿は「何が起きているか分からない」という不安から解放されます。きな粉、卵黄、油を混ぜる行為は、まさに貴殿の身体という「OS」のゲートを開き、データを書き込むための「物理的ドライバ」のインストールです。この「物流システム」を使いこなし、代謝効率を極限までチューニングしてください。
+Understanding this logic frees you from the anxiety of "not knowing what's happening." Mixing Kinako, egg yolk, and oil is the installation of a "physical driver" to open the gates of your Body OS and write data. Master this "logistics system" and tune your metabolic efficiency to the absolute limit.  
